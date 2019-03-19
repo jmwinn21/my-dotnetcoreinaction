@@ -1,0 +1,11 @@
+/Users/jacob/code/dotnet/books/my-dotnetcoreinaction/chapter2/hwapp/bin/Debug/netcoreapp2.2/hwapp.deps.json
+/Users/jacob/code/dotnet/books/my-dotnetcoreinaction/chapter2/hwapp/bin/Debug/netcoreapp2.2/hwapp.runtimeconfig.json
+/Users/jacob/code/dotnet/books/my-dotnetcoreinaction/chapter2/hwapp/bin/Debug/netcoreapp2.2/hwapp.runtimeconfig.dev.json
+/Users/jacob/code/dotnet/books/my-dotnetcoreinaction/chapter2/hwapp/bin/Debug/netcoreapp2.2/hwapp.dll
+/Users/jacob/code/dotnet/books/my-dotnetcoreinaction/chapter2/hwapp/bin/Debug/netcoreapp2.2/hwapp.pdb
+/Users/jacob/code/dotnet/books/my-dotnetcoreinaction/chapter2/hwapp/obj/Debug/netcoreapp2.2/hwapp.csprojAssemblyReference.cache
+/Users/jacob/code/dotnet/books/my-dotnetcoreinaction/chapter2/hwapp/obj/Debug/netcoreapp2.2/hwapp.csproj.CoreCompileInputs.cache
+/Users/jacob/code/dotnet/books/my-dotnetcoreinaction/chapter2/hwapp/obj/Debug/netcoreapp2.2/hwapp.AssemblyInfoInputs.cache
+/Users/jacob/code/dotnet/books/my-dotnetcoreinaction/chapter2/hwapp/obj/Debug/netcoreapp2.2/hwapp.AssemblyInfo.cs
+/Users/jacob/code/dotnet/books/my-dotnetcoreinaction/chapter2/hwapp/obj/Debug/netcoreapp2.2/hwapp.dll
+/Users/jacob/code/dotnet/books/my-dotnetcoreinaction/chapter2/hwapp/obj/Debug/netcoreapp2.2/hwapp.pdb
