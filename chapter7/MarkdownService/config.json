@@ -1,0 +1,6 @@
+{
+  "AcountName": "myaccount",
+  "AccountKey": "<accountKey>",
+  "BlobEndpoint": "https://myaccount.blob.core.windows.net",
+  "ServiceVersion": "2009-09-19"
+}
