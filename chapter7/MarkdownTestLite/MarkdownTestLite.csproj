@@ -9,4 +9,10 @@
     <PackageReference Include="Microsoft.DocAsCode.MarkdownLite" Version="2.13.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="test.md">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
